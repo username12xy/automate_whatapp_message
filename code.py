@@ -1,4 +1,4 @@
-mport pywhatkit as kit
+import pywhatkit as kit
 
 # Replace 'phone_number' with the recipient's phone number including the country code (e.g., +1 for the US).
 phone_number = '+181406545301'
